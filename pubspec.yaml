@@ -10,8 +10,9 @@ dependencies:
     sdk: flutter
   #image_picker: ^0.4.10
   image_picker:
-    git: https://github.com/dynamic1/flutter-plugins.git
-    path: packages/image_picker
+    git: 
+      url: https://github.com/dynamic1/flutter-plugins.git
+      path: packages/image_picker
   meta: ^1.1.5
 
 environment:
